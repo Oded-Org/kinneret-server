@@ -44,3 +44,4 @@ To get all tasks GET on ```http://localhost:9000/tasks```, returns list of tasks
 To delete a task DELETE on ```http://localhost:9000/tasks/{id}``` {id} should be the task id you would like to delete
 
 You can also get single task using GET on ```http://localhost:9000/tasks/{id}```
+
